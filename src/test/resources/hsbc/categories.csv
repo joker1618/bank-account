@@ -1,0 +1,58 @@
+#CAT_NAME|EQUALS|START_WITH|END_WITH|CONTAINS
+Bar||CAFFE NERO||
+Bar||COSTA COFFEE||
+Bar||IZ *The New Black||
+Bar||L Express Coffee||
+Bar||STARBUCKS||
+Bar||SYNGE & BYRNE||
+Clothing||HAWES & CURTIS||
+Clothing||T M LEWIN||
+ECig||ZIGGICIG||
+Food||BELGO||
+Food||BUNREAL||
+Food||BURGER KING||
+Food||FRIAR TUCKS||
+Food||GOURMET BURGER||
+Food||HOP VIETNAMESE ||
+Food||ICATU||
+Food||INDOCHINE LTD||
+Food||ITSU||
+Food||KFC||
+Food||LEON CANNON ST||
+Food||PRET A MANGER||
+Food||RIICE LTD||
+Food||TGI FRIDAY'S||
+Food||WOK TO WALK||
+Food||||MCDONALDS
+Laundry||THE ZIPYARD||
+Market||CO-OP GROUP||
+Market||DUNNES OLD CREAMER||
+Market||GREENLAND SUPERMAR||
+Market||ICELAND||
+Market||SAINSBURY||
+Market||TESCO||
+Pub||OLD BELL||
+Pub||RILEYS||
+Rent house||City Homes||24D 1-1 Federico
+Shop||EVEREST FISH||
+Shop||KRYSTALS EXPRESS||
+Shop||M & M 'S WORLD||
+Shop||TIERNEYS VIVO||
+Shop||WH SMITH||
+Shop||WINEFLAIR||
+Shop||||SSP IRELAND LTD
+Shop||||WRIGHTS FOOD FAYRE
+Transaction Fee||Non-Sterling||Transaction Fee
+Transport||CMT UK LTD TAXI||
+Transport||GREATER ANGLIA||
+Transport||IZ *London taxi||
+Transport||SINALS NEWS||
+Transport||STRATFORD SST||
+Transport||TFL TRAVEL||
+Wage FD||F     D||
+Withdraw||CASH BARCLAY||ATM
+Withdraw||CASH HALIFAX||ATM
+Withdraw||CASH HSBC||ATM
+Withdraw||CASH NATWEST||ATM
+Withdraw||CASH SAINSBY||ATM
+Withdraw||CASH TRLX||ATM
