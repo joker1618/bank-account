@@ -16,7 +16,7 @@
     </parent>
 
     <properties>
-        <java.libs.version>2.0.1-refactor</java.libs.version>
+        <java.libs.version>2.0</java.libs.version>
     </properties>
 
     <dependencies>
