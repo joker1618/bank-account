@@ -13,7 +13,7 @@ import xxx.joker.apps.bank.accountold.account.hsbc.views.StatElem;
 import xxx.joker.libs.core.datetime.JkDates;
 import xxx.joker.libs.core.exception.JkRuntimeException;
 import xxx.joker.libs.core.files.JkFiles;
-import xxx.joker.libs.core.format.JkCsvParser;
+import xxx.joker.libs.core.format.JkFormatter;
 import xxx.joker.libs.core.format.JkOutput;
 import xxx.joker.libs.core.lambdas.JkStreams;
 import xxx.joker.libs.core.objects.JkArea;
@@ -48,7 +48,7 @@ public class HsbcManager {
     }
 
     public static List<Movement> readParsedCsv(Path parsedCsvPath) {
-        return JkCsvParser.parseCsv(parsedCsvPath, Movement.class);
+        return JkFormatter.get().parseCsv(parsedCsvPath, Movement.class);
     }
 
     public static void setCategoryToMovs(Path categoriesPath, List<Movement> movs) {
